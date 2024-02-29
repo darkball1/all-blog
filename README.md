@@ -6,8 +6,8 @@ All-Blog is a web application designed for reading and posting blogs. It offers 
 - Post new blog entries.
 
 ## Technologies Used
--**Frontend:** React.js, Tailwind CSS
--**Backend:** Express.js, MySQL
--**Authentication:** Clerk.com
--**Database:** AWS RDS
--**Caching:** Redis
+-Frontend: React.js, Tailwind CSS
+-Backend: Express.js, MySQL
+-Authentication: Clerk.com
+-Database: AWS RDS
+-Caching: Redis
